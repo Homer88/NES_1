@@ -1,0 +1,4 @@
+{
+	make:
+	c:\cc65\bin\ca65 test.asm
+}
